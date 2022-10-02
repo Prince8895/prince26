@@ -5,5 +5,5 @@
 
 - name: install java
   apt:
-   name: opejdk-8-jre
+   name: openjdk-8-jre
    state: present 
